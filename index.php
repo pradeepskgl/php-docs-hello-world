@@ -1,3 +1,3 @@
 <?php
-
-echo "Test PHP";
+header('Location: http://127.0.0.1:5000/flag');
+?>
